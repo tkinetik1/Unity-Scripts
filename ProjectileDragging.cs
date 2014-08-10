@@ -1,3 +1,5 @@
+//Created by Tyson Frederick, 8/3/2014, with Official Project/Tutorial video from Unity3D.com.
+
 using UnityEngine;
 using System.Collections;
 
